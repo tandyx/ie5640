@@ -1,0 +1,13 @@
+pandas
+numpy
+dmba
+scikit-learn
+matplotlib
+requests
+jupyter
+nbconvert
+nbconvert[webpdf]
+pandoc
+black
+black[jupyter]
+seaborn
