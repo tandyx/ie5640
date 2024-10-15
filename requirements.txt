@@ -11,3 +11,4 @@ pandoc
 black
 black[jupyter]
 seaborn
+tabulate
