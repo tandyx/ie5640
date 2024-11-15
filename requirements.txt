@@ -6,7 +6,7 @@ matplotlib
 requests
 jupyter
 nbconvert
-nbconvert[webpdf]
+nbconvert[qtpdf]
 pandoc
 black
 black[jupyter]
